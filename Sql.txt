@@ -1,0 +1,8 @@
+
+2. Answer the following questions: from the tables on bigquery
+
+What season has the highest number of pickup rides (Winter, Summer, Autumn and Spring)
+What period of the day has the highest pickup number
+What day of the week (Monday- Sunday) has the highest pickup number
+What zone has the highest
+What zone has the highest total amount of paid.
